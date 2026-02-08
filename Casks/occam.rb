@@ -1,6 +1,6 @@
 cask "occam" do
-  version "1.2.2"
-  sha256 "fbe4499f819aeb8247e4ceb48acb0a12fcc21e3a6bc92417c01fa967b15c0f21"
+  version "1.3.0"
+  sha256 "049e96dd19ee211327ff7ad4bcb6a47c1d30fb51629c0c7e82309f4dbb9f839e"
 
   url "https://github.com/mpalczew/occam/releases/download/v#{version}/Occam-#{version}-universal.zip"
   name "Occam"
